@@ -28,3 +28,4 @@ C:\projetos\VinheriaAgnelloCRUD\obj\Debug\net8.0\refint\VinheriaAgnelloCRUD.dll
 C:\projetos\VinheriaAgnelloCRUD\obj\Debug\net8.0\VinheriaAgnelloCRUD.pdb
 C:\projetos\VinheriaAgnelloCRUD\obj\Debug\net8.0\VinheriaAgnelloCRUD.genruntimeconfig.cache
 C:\projetos\VinheriaAgnelloCRUD\obj\Debug\net8.0\ref\VinheriaAgnelloCRUD.dll
+C:\projetos\VinheriaAgnelloCRUD\obj\Debug\net8.0\VinheriaAgnelloCRUD.sourcelink.json
